@@ -1,1 +1,2 @@
-# Task_result
+## Блок-схема решения задачи
+![images](images.png)
